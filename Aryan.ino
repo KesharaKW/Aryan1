@@ -2,8 +2,8 @@
 #define echo 4
 
 void setup() {
-  pinMode(5,OUTPUT);
-  pinMode(8,OUTPUT);
+  pinMode(5,OUTPUT); 
+  pinMode(8,OUTPUT); //mortor control pins
   pinMode(9,OUTPUT);
   pinMode(10,OUTPUT);
   pinMode(11,OUTPUT);
